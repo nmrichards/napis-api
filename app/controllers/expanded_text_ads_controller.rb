@@ -1,0 +1,2 @@
+class ExpandedTextAdsController < ApplicationController
+end
